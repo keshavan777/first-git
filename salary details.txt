@@ -1,3 +1,0 @@
-salary details 
-abc - 200000
-xyz - 500000
